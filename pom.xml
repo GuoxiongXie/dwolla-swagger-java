@@ -171,10 +171,10 @@
     </dependency>
   </dependencies>
   <properties>
-    <swagger-annotations-version>1.5.0</swagger-annotations-version>
-    <jersey-version>1.18</jersey-version>
-    <jackson-version>2.4.2</jackson-version>
-    <jodatime-version>2.3</jodatime-version>
+    <swagger-annotations-version>1.5.10</swagger-annotations-version>
+    <jersey-version>1.19</jersey-version>
+    <jackson-version>2.8.5</jackson-version>
+    <jodatime-version>2.9.7</jodatime-version>
     <maven-plugin-version>1.0.0</maven-plugin-version>
     <junit-version>4.8.1</junit-version>
   </properties>
